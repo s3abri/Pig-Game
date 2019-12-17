@@ -67,7 +67,6 @@ function nextPlayer() {
 
 document.querySelector('.btn-new').addEventListener('click', init);
 
-
 //Function to initalize (everything hapen before the game start)
 function init() {
 
